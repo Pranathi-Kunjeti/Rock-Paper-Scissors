@@ -16,7 +16,8 @@ This game is developed using C Programming using <em><b>rand</b></em> function a
 2. Run the code in your favourite IDE.
 
 ### Sample Output
-<img src="RPSoutput.png" alt="outpur">
+<img src="RPSoutput.png" alt="output"/>
 
-<!-- <p align: "center">Happy Rock Paper Scissors</p> -->
+<h3 align="center">Happy Rock Paper Scissors!!</h3> 
+
 
