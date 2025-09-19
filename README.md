@@ -1,4 +1,4 @@
-## Rock Paper Scissors ✊  🖐️ ✌
+## Rock Paper Scissors ✊  🖐️ ✌ Hy
 This game is developed using C Programming using <em><b>rand</b></em> function and some user inputs.
 
 ### About the game
