@@ -1,5 +1,5 @@
 ## Rock Paper Scissors ✊  🖐️ ✌
-This game is developed using C Programming using <em><b>rand</b></em> function and some user inputs.
+This game is developed using java Programming using <em><b>rand</b></em> function and some user inputs.
 
 ### About the game
 - In this game, it generates a random one from <strong>Rock,Paper,scissors</strong> and User also need to give input.
